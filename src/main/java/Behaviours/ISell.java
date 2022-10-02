@@ -1,0 +1,11 @@
+package Behaviours;
+
+import java.util.ArrayList;
+
+public interface ISell {
+
+        public double calculateMarkup();
+
+//        public double getTotalProfit();
+
+}
